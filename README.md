@@ -20,6 +20,8 @@ expense entry.
 
 API: https://media.halogen.my/experiment/mobile/expenseCategories.json
 
+APK files can be downloaded from app-release.apk
+
 Below is the screenshot of the app
 
 ![Screenshot_1747988966](https://github.com/user-attachments/assets/dae78824-4a02-440f-8aa0-79471ebd1042)
